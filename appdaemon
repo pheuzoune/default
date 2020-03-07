@@ -16,6 +16,7 @@
   "jmarsik/ad-eurotronic-trv-valvepos",
   "ludeeus/ad-watchdog",
   "Odianosen25/Monitor-App",
+  "pheuzoune/ADHassToInfluxDB", 
   "Petro31/ad_convert_media_volume",
   "Petro31/ad_group_all",
   "Petro31/ad_monitor_events",
